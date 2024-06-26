@@ -1,0 +1,1 @@
+import bookingForm from "../components/BookingForm";
